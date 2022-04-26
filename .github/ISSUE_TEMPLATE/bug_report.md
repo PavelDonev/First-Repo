@@ -20,6 +20,14 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**Severity**
+How severe is the problem to the everyday user.  
+Example: Blocking, Critical, High, Medium, Low
+
+**Priority**
+How fast should the problem be eridated.  
+Example: Immediate, Next release, On occasion, Open
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
