@@ -25,7 +25,7 @@ How severe is the problem to the everyday user.
 Example: Blocking, Critical, High, Medium, Low
 
 **Priority**
-How fast should the problem be eridated.  
+How fast should the problem be eradicated.  
 Example: Immediate, Next release, On occasion, Open
 
 **Screenshots**
