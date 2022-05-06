@@ -17,13 +17,6 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Severity**
-How severe is the problem to the everyday user.  
-Example: Blocking, Critical, High, Medium, Low
-
 **Priority**
 How fast should the problem be eradicated.  
 Example: Immediate, Next release, On occasion, Open
